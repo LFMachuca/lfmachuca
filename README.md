@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leon Machuca</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 💬 Ask me about **ReactJS,HTML, CSS, SASS, Javascript**
+![portada git](https://github.com/user-attachments/assets/bd40088f-378f-486f-b01d-1e3ee0cf37dd)
+
+
+- 💬 Ask me about **ReactJS,HTML, CSS, SASS, Javascript.**
 
 - 📫 How to reach me **fmigra87@gmail.com**
 <h3 align="left">Connect with me:</h3>
